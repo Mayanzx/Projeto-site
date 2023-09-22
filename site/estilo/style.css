@@ -20,7 +20,11 @@
     margin: 0px;
     padding: 0px;
 }
-
+article.participantes{
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
 
 body {
     background-color: var(--cor0) ;
@@ -169,8 +173,8 @@ aside{
 }
 aside.ingles{
     background-color: #DB5F64;
-    margin: 10px 100px 10px 34px;
-    width: 10cm;
+    margin: 10px 20px 10px 10px;
+    width: 9.7cm;
     height: 5cm;
     padding: 10px;
     border-radius: 10px;
@@ -179,8 +183,8 @@ aside.ingles{
 }
 aside.espanhol{
     background-color: #c9293c;
-    margin: 10px 20px;
-    width: 10cm;
+    margin: 10px 20px 10px 10px;
+    width: 9.7cm;
     height: 5cm;
     padding: 10px;
     border-radius: 10px;
@@ -190,8 +194,8 @@ aside.espanhol{
 }
 aside.portugues{
     background-color: #ECF230;
-    margin: 10px 100px 10px 34px;
-    width: 10cm;
+    margin: 10px 20px 10px 10px;
+    width: 9.7cm;
     height: 3cm;
     padding: 10px;
     border-radius: 10px;
@@ -200,8 +204,8 @@ aside.portugues{
 }
 aside.frances{
     background-color: #002654;
-    margin: 10px 20px;
-    width: 10cm;
+    margin: 10px 20px 10px 10px;
+    width: 9.7cm;
     height: 3cm;
     padding: 10px;
     border-radius: 10px;
