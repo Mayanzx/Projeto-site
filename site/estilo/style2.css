@@ -98,6 +98,10 @@ ul{
 ul > li{
     padding: 15px ;
 }
+ul  a{
+    color: var(--cor4);
+    text-decoration: none;
+}
 
 main p{
     margin: 15px 0px;
